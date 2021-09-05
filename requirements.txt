@@ -1,0 +1,14 @@
+captum==0.3.1
+fastai==1.0.61
+fastprogress==1.0.0
+numpy==1.20.3
+opencv-python==4.5.2.54
+pandas==1.2.4
+Pillow==8.2.0
+pydicom==2.2.0
+scikit-learn==0.24.2
+torch==1.7.1
+torchaudio==0.7.2
+torchio==0.18.47
+torchvision==0.8.2
+tqdm==4.61.1
